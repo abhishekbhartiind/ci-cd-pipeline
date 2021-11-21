@@ -15,4 +15,4 @@ Continuous Integration(CI) is a practice, in software engineering, of merging al
 
 Continuous Delivery(CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time.
 ```
-![Flow Diagram](ci-cd.jpg)
+![Flow Diagram](ci-cd.png)
